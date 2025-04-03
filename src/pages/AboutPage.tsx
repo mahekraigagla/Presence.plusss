@@ -224,7 +224,7 @@ const AboutPage = () => {
                       <div className="bg-primary/10 p-1 rounded-full mt-1">
                         <Check className="h-4 w-4 text-primary" />
                       </div>
-                      <span>Process attendance marking in under 2 seconds</span>
+                      <span>Process attendance marking in under seconds</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <div className="bg-primary/10 p-1 rounded-full mt-1">
